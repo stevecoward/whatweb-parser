@@ -1,0 +1,6 @@
+env/
+scan_output/
+urls.txt
+*.DS_Store
+*.pyc
+*.csv
